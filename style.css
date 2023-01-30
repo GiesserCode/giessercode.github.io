@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    font-family: 'nunito', sans-serif;
+    transition: all 0.2s;
+}
+
+.baguette{
+    text-align: center;
+    padding-top: 20%;
+    transition: all 0.2s;
+    position: sticky;
+    top: -350px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    transition: all 0.2s;
+}
+
+h1:hover{
+    color: rgb(0, 255, 0);
+    transition: all 0.2s;
+}
+
+.placeholder{
+    height: 2000px;
+}
